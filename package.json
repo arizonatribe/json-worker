@@ -1,0 +1,30 @@
+{
+  "name": "json-worker",
+  "version": "1.0.0",
+  "description": "Fetches JSON using the browser's native fetch, but from a web-worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arizonatribe/json-worker.git"
+  },
+  "keywords": [
+    "fetch",
+    "json",
+    "worker",
+    "thread",
+    "browser",
+    "fetchAPI"
+  ],
+  "author": "David Nunez <arizonatribe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arizonatribe/json-worker/issues"
+  },
+  "homepage": "https://github.com/arizonatribe/json-worker#readme",
+  "dependencies": {
+    "workerize": "0.1.7"
+  }
+}
