@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/arizonatribe/json-worker#readme",
   "dependencies": {
-    "web-worker": "0.1.6"
+    "web-worker": "1.2.0"
   }
 }
